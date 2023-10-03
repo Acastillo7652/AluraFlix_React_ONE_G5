@@ -1,0 +1,145 @@
+{
+    "categorias": [
+      {
+        "titulo": "Front End",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Formación Front End en Alura",
+          "url": "https://www.aluracursos.com/cursos-online-front-end"
+        },
+        "videos": [
+          {
+            "titulo": "¿Por Qué Estudiar Programación",
+            "url": "https://youtu.be/PlaQ913yggM?si=-STdBrhYWKRh38cL"
+          },
+          {
+            "titulo": "Equipo Front-End",
+            "url": "https://youtu.be/rpvrLaBQwgg?si=1h86qM2JWeAE1Q9V"
+          },
+          {
+            "titulo": "Cúal es la diferencia entre Front-End y Back-End",
+            "url": "https://youtu.be/R9uaBxgCkyA?si=a5nXZJj9u4ZcaBSd"
+          },
+          {
+            "titulo": "React",
+            "url": "https://youtu.be/MnBNPA45NW8?si=oexM69v4MGklWVJK"
+          },
+          {
+            "titulo": "Back o Front",
+            "url": "https://youtu.be/aYoSI5454cg?si=DnlgnnXp40BAONYQ"
+          }
+        ]
+      },
+      {
+        "titulo": "Back End",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Cursos de Back End en Alura",
+          "url": "https://www.aluracursos.com/cursos-online-programacao"
+        },
+        "videos": [
+          {
+            "titulo": "Back End",
+            "url": "https://youtu.be/Z024LSCMqFk?si=imuOkJ2XqF6m9bAI"
+          },
+          {
+            "titulo": "Spring",
+            "url": "https://youtu.be/t-iqt1b2qqk?si=-XqAUCIDSBKQsnDq"
+          },
+          {
+            "titulo": "Por qué utilizar Java",
+            "url": "https://youtu.be/3kNuK-XAHEY?si=ftMIFxzOBvrNeJju"
+          },
+          {
+            "titulo": "Java",
+            "url": "https://youtu.be/zOetOoeOrOg?si=sOixxhk2GmZ3jPzB"
+          }
+        ]
+      },
+      {
+        "titulo": "Data Science",
+        "cor": "#9cd33b",
+        "link_extra": {
+          "text": "Cursos de Data Science en Alura",
+          "url": "https://www.aluracursos.com/cursos-online-data-science"
+        },
+        "videos": [
+          {
+            "titulo": "Pyton para Ciencia de Datos",
+            "url": "https://youtu.be/JMKZMa0tMhQ?si=Cd37u2xADWnWhtNw"
+          },
+          {
+            "titulo": "Por qué estudiar Data Science?",
+            "url": "https://youtu.be/7_UXo-aqAeM?si=NR1Au6960czgdT4H"
+          },
+          {
+            "titulo": "Cúal escojo",
+            "url": "https://youtu.be/doLXHVBbknw?si=-Hil691vdhDUhY6x"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "Mario Bross",
+            "url": "https://youtu.be/VHovNBF5L6g?si=lML6-61xziOBkenO"
+          },
+          {
+            "titulo": "Top Gun",
+            "url": "https://youtu.be/a3PMC9YLVTk?si=HJ215HfbKNJ2Gv6w"
+          },
+          {
+            "titulo": "Transformers",
+            "url": "https://youtu.be/i2VmXoMKS4o?si=DgZ4sAGajvb3NtTA"
+          },
+          {
+            "titulo": "Troya",
+            "url": "https://youtu.be/RE-Dds-yH0M?si=hfBJ5CX3AyBZTP5D"
+          }
+        ]
+      },
+      {
+        "titulo": "Games",
+        "cor": "red",
+        "link_extra": {
+          "text": "",
+          "url": ""
+        },
+        "videos": [
+          {
+            "titulo": "Call of Duty",
+            "url": "https://youtu.be/JWL9CxsdpWE?si=OCT8DnEbTpudpc8C"
+          },
+          {
+            "titulo": "Battle Field",
+            "url": "https://youtu.be/eSn-wBUtY4k?si=B_wtBOYUWw_uf-k6"
+          },
+          {
+            "titulo": "Rage 9",
+            "url": "https://youtu.be/pNYjka8uGmk?si=f1851z9vPJ5IZ7BH"
+          }
+        ]
+      },
+      {
+        "titulo": "Tecnología",
+        "cor": "#6b5be2",
+        "link_extra": {
+          "text": "",
+          "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        },
+        "videos": [
+          {
+            "titulo": "Cambiará el mundo",
+            "url": "https://youtu.be/hu5AS-tkMTo?si=Gx-QlNwzpvJcICx1"
+          },
+          {
+            "titulo": "Robot Exposición en China",
+            "url": "https://youtu.be/b4lPfaNf4ks?si=JvT6nqEZin6gdSt4"
+          }
+        ]
+      }
+    ]
+  }
